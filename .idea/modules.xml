@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TTDEngineeringServices.iml" filepath="$PROJECT_DIR$/.idea/TTDEngineeringServices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecruitmentServices/application-service/application-service.iml" filepath="$PROJECT_DIR$/RecruitmentServices/application-service/application-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecruitmentServices/payment-service/payment-service.iml" filepath="$PROJECT_DIR$/RecruitmentServices/payment-service/payment-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecruitmentServices/registration-service/registration-service.iml" filepath="$PROJECT_DIR$/RecruitmentServices/registration-service/registration-service.iml" />
+    </modules>
+  </component>
+</project>
