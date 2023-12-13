@@ -1,0 +1,10 @@
+
+k
+java:S22597"NA "NullPointerException" could be thrown; "transferResponse" is nullable here.(‡½àÔ8Ø×È…·1
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(ÿáçó8ã×È…·1
+]	java:S125&"<This block of commented-out lines of code should be removed.(«¨Õâüÿÿÿÿ8å×È…·1
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(Çð²“þÿÿÿÿ8“æÉ…·1
+:
+java:S2119A"Save and re-use this "Random".(¼ÝÅf8ò×È…·1
+Y
+java:S1128"7Remove this unused import 'javax.servlet.Registration'.(•§¶Âýÿÿÿÿ8ô×È…·1

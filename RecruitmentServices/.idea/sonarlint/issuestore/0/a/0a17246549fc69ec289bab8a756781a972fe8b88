@@ -1,0 +1,7 @@
+
+
+java:S14886"fImmediately return this expression instead of assigning it to the temporary variable "registrationId".(Ã£Öşûÿÿÿÿ
+3
+java:S21192"Save and re-use this "Random".(¼İÅf
+J
+java:S18746"/Remove this use of "getYear"; it is deprecated.(Ã£Öşûÿÿÿÿ
